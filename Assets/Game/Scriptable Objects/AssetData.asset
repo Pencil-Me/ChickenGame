@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3429201e3b67b4b41b577f5cb37bba6f, type: 3}
+  m_Name: AssetData
+  m_EditorClassIdentifier: 
+  Kamm:
+  - {fileID: 11400000, guid: e777ca5c9109386439d218bb8a0efe01, type: 2}
+  Eye:
+  - {fileID: 11400000, guid: 8bcba4e4fff146e498085a2619b12a42, type: 2}
+  - {fileID: 11400000, guid: a67463ee072bc3c43be51dff90488091, type: 2}
+  Schnabel:
+  - {fileID: 11400000, guid: 285e2e9090005134bb58b4d1fa0920f1, type: 2}
+  - {fileID: 11400000, guid: 05ed26ae4f1e5844796902553f4b0999, type: 2}
+  Schwanz:
+  - {fileID: 11400000, guid: 718d6fa125bf712488563441a6c26e6d, type: 2}
+  Textures:
+  - {fileID: 11400000, guid: e075abb9405b2ac4f86c7be42a2d2cb5, type: 2}
+  - {fileID: 11400000, guid: 8f8b0c7ca2142f548a60022382e96dfd, type: 2}
+  - {fileID: 11400000, guid: c87abba70a650bd4b996f5e93b528887, type: 2}
+  - {fileID: 11400000, guid: d51b990b3a3ca5545885662eb7fc0167, type: 2}
+  TextureColors:
+  - {fileID: 11400000, guid: e276e50c7ba3a5842a9bf1601eb6ddaf, type: 2}
+  - {fileID: 11400000, guid: feaf7c5babbacbe4a8642fe4be01e37f, type: 2}
+  - {fileID: 11400000, guid: 0c04469bb6919e74c95803e98da238f7, type: 2}
